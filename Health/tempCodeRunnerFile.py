@@ -1,1 +1,0 @@
-a=''.join(map(str,a))
